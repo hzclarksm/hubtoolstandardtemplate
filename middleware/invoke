@@ -3,5 +3,5 @@
 #
 # standard tool
 #
-/usr/bin/invoke_app "$@" -t hubtoolshortname \
+/usr/bin/invoke_app "$@" -t githubstandard \
                          -C rappture
